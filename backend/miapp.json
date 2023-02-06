@@ -1,0 +1,82 @@
+[
+    {
+        "model": "miapp.testusermodel",
+        "pk": 1,
+        "fields": {
+            "testUserDni": "0000001",
+            "testUserName": "MARIO ALEXANDER"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 2,
+        "fields": {
+            "testUserDni": "0000002",
+            "testUserName": "WILFREDO PALOMINO"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 3,
+        "fields": {
+            "testUserDni": "0000003",
+            "testUserName": "GENARO SALAS"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 4,
+        "fields": {
+            "testUserDni": "0000004",
+            "testUserName": "JULIA ACHA"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 5,
+        "fields": {
+            "testUserDni": "0000005",
+            "testUserName": "ANA TORRES"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 6,
+        "fields": {
+            "testUserDni": "0000006",
+            "testUserName": "MARIA ZAPATA"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 7,
+        "fields": {
+            "testUserDni": "0000007",
+            "testUserName": "PEDRO ZAVALETA"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 8,
+        "fields": {
+            "testUserDni": "0000008",
+            "testUserName": "JOSE LOPEZ"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 9,
+        "fields": {
+            "testUserDni": "0000009",
+            "testUserName": "FREDDY PEÑA"
+        }
+    },
+    {
+        "model": "miapp.testusermodel",
+        "pk": 10,
+        "fields": {
+            "testUserDni": "0000010",
+            "testUserName": "ISAEL GUERRERO"
+        }
+    }
+]
