@@ -1,4 +1,4 @@
-# Guía de inicio rápido: Docker Compose con Django, MySql y React por Mario Medina
+# Guía de inicio rápido: Multiselect en React por Mario Medina
 
 Esta guía de inicio rápido demuestra cómo utilizar un control Multiselect en React. Antes de empezar, [instala Compose](https://docs.docker.com/compose/install/).
 
